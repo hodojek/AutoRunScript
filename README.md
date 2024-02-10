@@ -1,5 +1,5 @@
 # AutoRunScript
-This script uses directx scan codes to hold W+SHIFT for you if there isn't an option to toggle running in a game
+This script uses directx scan codes to hold W+SHIFT for you if there isn't an option to toggle running in a game.
 
 ## Usage
 Just run it and press the toggle key.

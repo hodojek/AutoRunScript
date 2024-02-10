@@ -10,7 +10,7 @@ The script will hold W and SHIFT until the toggle key is pressed again.
 ### auto_run.exe
 You can download .exe file in the **releases** tab.
 
-### Alternatively you can run the script with python
+### Python
 Install dependencies with:
 ```
 python -m pip install -r requirements.txt
